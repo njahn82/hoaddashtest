@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+docs/
+jct/
+oam/
+/.quarto/
+/_freeze/
+index_files/
+.Rbuildignore
+.DS_Store
