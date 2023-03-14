@@ -1,1 +1,1 @@
-Sitemap: https://fantastic-palmier-7b1dc3.netlify.app/sitemap.xml
+Sitemap: https://github.com/njahn82/hoaddashtest/sitemap.xml
