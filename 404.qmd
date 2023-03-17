@@ -9,4 +9,3 @@ sidebar: true
 ---
 
 Check the sidebar navigation and search to find your publisher-specific dashboard.
-
